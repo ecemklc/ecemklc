@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 ![Ecem Kılıç's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecemklc&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecemklc&layout=pie)](https://github.com/ecemklc/github-readme-stats)
+
+[![Ecem Kılıç's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ecemklc)](https://github.com/ecemklc/github-readme-stats)
