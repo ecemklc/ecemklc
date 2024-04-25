@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecemklc&layout=pie)](https://github.com/ecemklc/github-readme-stats)
 
-[![Ecem Kılıç's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ecemklc)](https://github.com/ecemklc/github-readme-stats)
+[![Ecem Kılıç's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ecemklc/github-readme-stats)
